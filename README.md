@@ -12,16 +12,16 @@ I enjoy turning raw data into insights and developing smart solutions that impro
 
 ---
 
-### 🚀 About Me
-- 🎓 Intelligent Systems Engineering student  
-- 🤖 Interested in **Data Analytics, AI, and Machine Learning**  
-- 📊 Experience in **data analysis, pattern recognition, and ML model development**  
-- 🔧 Enjoy working with **software + data + real-world systems**  
-- 🌱 Currently improving skills in **AI model deployment & data-driven system design**
+### About Me
+- Intelligent Systems Engineering student  
+- Interested in **Data Analytics, AI, and Machine Learning**  
+- Experience in **data analysis, pattern recognition, and ML model development**  
+- Enjoy working with **software + data + real-world systems**  
+- Currently improving skills in **AI model deployment & data-driven system design**
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/sandee-choppadoo" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -30,9 +30,9 @@ I enjoy turning raw data into insights and developing smart solutions that impro
 
 ---
 
-### 🧠 Technical Skills
+###  Technical Skills
 
-#### 💻 Programming & Data
+####  Programming & Data
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -42,13 +42,13 @@ I enjoy turning raw data into insights and developing smart solutions that impro
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
 
-#### 🤖 AI / Intelligent Systems
+####  AI / Intelligent Systems
 - Machine Learning model training & evaluation  
 - Signal & audio data processing  
 - Feature extraction and pattern analysis  
 - Data visualization & preprocessing  
 
-#### 🌐 Systems & Engineering
+####  Systems & Engineering
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
@@ -59,7 +59,7 @@ I enjoy turning raw data into insights and developing smart solutions that impro
 - Sensor integration & actuator control  
 - Basic IP networking knowledge  
 
-#### 🎨 Other Tools
+####  Other Tools
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
@@ -68,7 +68,7 @@ I enjoy turning raw data into insights and developing smart solutions that impro
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dreamsandee&show_icons=true&theme=default"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamsandee&layout=compact"/>
